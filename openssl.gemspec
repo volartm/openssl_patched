@@ -1,7 +1,7 @@
 require_relative 'lib/openssl/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "openssl-gost"
+  spec.name          = "openssl"
   spec.version       = OpenSSL::VERSION
   spec.authors       = ["Martin Bosslet", "SHIBATA Hiroshi", "Zachary Scott", "Kazuki Yamaguchi"]
   spec.email         = ["ruby-core@ruby-lang.org"]
