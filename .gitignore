@@ -1,0 +1,10 @@
+/doc/
+/pkg/
+/tmp/
+/html/
+*.bundle
+*.so
+*.o
+ext/openssl/mkmf.log
+ext/openssl/Makefile
+ext/openssl/extconf.h
